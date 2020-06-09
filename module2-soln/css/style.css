@@ -129,9 +129,13 @@
 *{
 	box-sizing: border-box;
 } 
+body{
+	background-color: #ead1c9;
+}
 #heading{
 	text-align: center; 
 	margin: 0px;
+	margin-bottom: 25px;
 }
 .row{
 	width: 100%;
@@ -140,7 +144,7 @@ section{
 	background-color: #588f9a;
 	border: solid black 1px;
 	margin: 10px;
-}
+}	
 #h01{
 	background-color: #EAE601;
 	padding:5px;
